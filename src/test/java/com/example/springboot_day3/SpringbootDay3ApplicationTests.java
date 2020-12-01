@@ -12,6 +12,8 @@ public class SpringbootDay3ApplicationTests {
 
     String a = "胡二百是大傻逼";
 
+    String b = "胡二百就是大傻逼";
+
     @Test
     public void contextLoads() {
     }
