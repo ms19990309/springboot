@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class SpringbootDay3ApplicationTests {
 
 
-    String a = "aa";
+    String a = "胡二百是大傻逼";
 
     @Test
     public void contextLoads() {
